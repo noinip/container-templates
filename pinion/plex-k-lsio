@@ -27,8 +27,8 @@
   [b]/media[/b] Map this to your media, you can use several submappings here[br]
   </Description>
   <Project>https://plex.tv/</Project>
-  <Registry>https://hub.docker.com/r/linuxserver/plex/</Registry>
-  <Repository>linuxserver/plex</Repository>
+  <Registry>https://hub.docker.com/r/pinion/docker-plex-1/</Registry>
+  <Repository>noinip/docker-plex-1</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
