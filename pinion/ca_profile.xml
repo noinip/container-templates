@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://forums.unraid.net/uploads/monthly_2020_11/ring-and-pinion-set-alt-v2.jpg.67cc28c50f97467b1f4369c7e8e9b297.jpg</Icon>
+  <Profile>
+    I started when Docker came on the scene with unraid some 7 or so years ago. CherryMusic and pyTiVo are my main two and I plan to revisit them now in 2021/22.
+  </Profile>
+  <Forum>
+    https://forums.unraid.net/topic/36926-pinions-docker-repo/
+  </Forum> 
+  <DonateText>If you like my work please consider Donating.</DonateText>
+  <DonateText>Doge Address: D8uiow4Xw7xusaYAjT6iX8svCXVYjHpXkJ</DonateText>
+  <DonateText>ETH Address: 0xc6A8a059d35FcD2a858349cFC3A9020c455Cfb82</DonateText>
+</Maintainer>
